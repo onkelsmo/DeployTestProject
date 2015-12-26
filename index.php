@@ -9,3 +9,4 @@ use Files\HttpRequest;
 $request = new HttpRequest($_SERVER);
 
 var_dump($request);
+echo "BAM!";
