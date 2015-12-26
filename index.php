@@ -10,4 +10,4 @@ $request = new HttpRequest($_SERVER);
 
 var_dump($request);
 
-echo "xXx";
+echo "xx";
